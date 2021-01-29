@@ -7,4 +7,4 @@ class Main
     System.out.println(s1.max(5, 4));
     System.out.println(s1.average(3, 3, 3));
   }
-}
+} 
